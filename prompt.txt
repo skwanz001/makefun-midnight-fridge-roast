@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: Midnight Fridge Roast (u-carbon-forge-midnight-fridge-roast-fc5d44a7) — one line roasting a smart fridge that refuses to open after midnight, judged pairwise by an AI judge against the published brief. Built with the make_fun_submission_preflight and brainstorming skills: stdlib-only Python 3.13 entrypoint, one vivid original idea (the fridge as a strict parent grounding its owner), no generic bouncer angle, no second joke crowding the first.
